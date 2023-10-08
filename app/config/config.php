@@ -80,7 +80,7 @@ $config['ENVIRONMENT']             = 'development';
 | WARNING: You MUST set this value!
 |
 */
-$config['base_url'] 				= 'http://localhost/Chequito_Web/Chequito_Web2_CRUD';
+$config['base_url'] 				= 'http://localhost/Chequito_Web/Chequito_Web2_UCRUD';
 
 /*
 |--------------------------------------------------------------------------
